@@ -26,3 +26,6 @@ Id,tx_date,tx_amount,tx_type
 4,2020-02-01,10,sell
 5,2020-03-01,20,sell
 6,2020-03-01,20,buy
+
+
+******* Dont forget to create file iykra.db *******
